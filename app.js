@@ -1,2 +1,2 @@
-alert("uh-oh!")
+alert("uh-oh!");
 console.log("here comes trouble");
